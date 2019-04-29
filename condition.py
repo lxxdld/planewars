@@ -12,3 +12,4 @@ elif bmi>=28 and bmi<32:
 	print("·ÊÅÖ")
 else:
 	print("¹ı¶È·ÊÅÖ")
+#1
