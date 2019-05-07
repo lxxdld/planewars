@@ -1,1 +1,3 @@
-半点之前学过语法，现在开始复习
+1.I learned grammar six months ago. Now I'm going to review it.
+
+2.try not to stay up late and go to bed before 1am.
